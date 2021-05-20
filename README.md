@@ -19,7 +19,7 @@ healthcare ioT platform,2014
 ![screenshot](https://raw.githubusercontent.com/zhangxx2015/healthcare-ioT-platform/main/0014设备管理%20-%20添加设备%20-%20已加入自动补0.png "screenshot")
 ![screenshot](https://raw.githubusercontent.com/zhangxx2015/healthcare-ioT-platform/main/0015设备管理%20-%20编辑设备.png "screenshot")
 ![screenshot](https://raw.githubusercontent.com/zhangxx2015/healthcare-ioT-platform/main/0016设备管理%20-%20删除设备.png "screenshot")
-![screenshot](https://raw.githubusercontent.com/zhangxx2015/healthcare-ioT-platform/main/0017设备管理 -查找设备.png "screenshot")
+![screenshot](https://raw.githubusercontent.com/zhangxx2015/healthcare-ioT-platform/main/0017设备管理%20-查找设备.png "screenshot")
 ![screenshot](https://raw.githubusercontent.com/zhangxx2015/healthcare-ioT-platform/main/0018心电管理.png "screenshot")
 ![screenshot](https://raw.githubusercontent.com/zhangxx2015/healthcare-ioT-platform/main/0019心电管理%20-%20查看心电分析报告.png "screenshot")
 ![screenshot](https://raw.githubusercontent.com/zhangxx2015/healthcare-ioT-platform/main/0020心电管理%20-%20选择用户.png "screenshot")
